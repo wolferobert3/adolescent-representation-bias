@@ -1,0 +1,11 @@
+accelerate
+bitsandbytes
+huggingface_hub
+numpy
+pandas
+scipy
+sklearn
+torch
+torchtext
+transformers
+umap
