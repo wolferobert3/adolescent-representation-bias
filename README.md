@@ -31,5 +31,5 @@ This repository is primarily a reference implementation intended for reproducibi
 
 - [https://fasttext.cc/docs/en/unsupervised-tutorial.html](**https://fasttext.cc/docs/en/unsupervised-tutorial.html**): A tutorial on training unsupervised fasttext word embeddings using the command line of via a python library.
 - [https://nlp.stanford.edu/projects/glove/](**https://nlp.stanford.edu/projects/glove/**): An introduction to the GloVe embeddings with useful information about training a model on a custom corpus, and using it to compare word similarities.
-- [https://github.com/artidoro/qlora](**qLoRA-Library**): The official repository for the qLoRA technology that enables quantized language models to be fine-tuned with insertable weight matrices. Includes helpful colab demos.
+- [https://github.com/artidoro/qlora](**https://github.com/artidoro/qlora**): The official repository for the qLoRA technology that enables quantized language models to be fine-tuned with insertable weight matrices. Includes helpful colab demos.
 - [https://huggingface.co/learn/nlp-course/chapter1/1](**https://huggingface.co/learn/nlp-course/chapter1/1**): The HuggingFace NLP course, a great way to get quickly caught up on the state of the art in open language technologies.
