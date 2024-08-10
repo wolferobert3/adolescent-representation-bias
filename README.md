@@ -1,5 +1,5 @@
 # Adolescent Representational Bias in AI Repository
-This is the code repository for the AIES'24 paper ***Representation Bias of Adolescents in AI: A Bilingual, Bicultural Study***, available at [placeholder](placeholder).
+This is the code repository for the AIES'24 paper ***Representation Bias of Adolescents in AI: A Bilingual, Bicultural Study***, available at [https://arxiv.org/pdf/2408.01961](https://arxiv.org/pdf/2408.01961).
 
 ### 1. Structure
 
@@ -21,9 +21,16 @@ A HuggingFace account is needed to use some of the HuggingFace Hub functionality
 
 ### 4. Paper & Citation
 
-Please cite the following version of our paper, from the AIES proceedings:
+Below follows the information to cite our paper:
 
-> TBD
+```bibtex
+@article{wolfe2024representation,
+  title={Representation Bias of Adolescents in AI: A Bilingual, Bicultural Study},
+  author={Wolfe, Robert and Dangol, Aayushi and Howe, Bill and Hiniker, Alexis},
+  journal={arXiv preprint arXiv:2408.01961},
+  year={2024}
+}
+```
 
 ### 5. Other Resources
 
